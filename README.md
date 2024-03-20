@@ -16,4 +16,4 @@ _Я изучаю ``Python`` для того что бы больше не раб
 
 ![Котик][1]
 
-[1]: [https://github.com/asasxa/Ruslan/blob/main/1694416670162565263.jpg?raw=true]
+[1]: [https://github.com/asasxa/Ruslan/blob/main/1694416670162565263.jpg]
